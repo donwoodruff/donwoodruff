@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @donwoodruff
 - 👀 I’m interested in a wide variety of things
-- 🌱 I’m currently learning Go and PowerApps
+- 🌱 I’m currently learning lots of stuff :D
 
 <!---
 donwoodruff/donwoodruff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
